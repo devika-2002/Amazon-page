@@ -1,0 +1,181 @@
+*{
+	box-sizing:border-box;
+}
+
+.row1{
+	height:60px;
+	background-color:cadetblue;
+
+}
+.col{
+	float:left;
+	height:100%;
+	padding-top: 10px;
+}
+.col1{
+	width:113px;
+	margin-left:15px;
+}
+.col2{
+	width:90px;
+	margin-left:5px;
+}
+.col3{
+	width:1208px;
+}
+.col_row{
+    width:1165px;
+    height:40px;
+    border:none;
+    margin-left:18px;
+    background-color:white;
+    
+}
+.col4{
+	width:73px;
+}
+.col5{
+	width:131px;
+}
+.col6{
+	width:77px;
+	margin-left:6px;
+
+}
+.col7{
+	width:84px;
+	margin-right:6px;
+}
+.row2{
+	height:39px;
+	background-color:wheat;
+}
+.col-size1{
+    float:left;
+	padding:0px 8px;
+    line-height:39px;
+	margin-left:15px;
+}
+.col-size2{
+    float:left;
+	padding:0px 8px;
+    line-height:39px;
+}
+.col-size3{
+	float:left;
+	padding:0px 8px;
+    line-height:39px;
+}
+.col-size4{
+	float:left;
+	padding:0px 8px;
+    line-height:39px;
+}
+.col-size5{
+	float:left;
+	padding:0px 8px;
+    line-height:39px;
+}
+.col-size6{
+	float:left;
+	padding:0px 8px;
+    line-height:39px;
+}
+.col-size7{
+	float:right;
+	padding:0px 8px;
+    line-height:39px;	
+}
+.row3{
+	width:1500px;
+	height:300px;
+	margin:auto;
+	margin-top:20px;
+}
+.row4{
+	width:1500px;
+	height:300px;
+	margin:auto;
+	margin-top:20px;
+}
+.image-grit1{
+	float:left;
+	height:298px;
+	width:374.5px;
+	margin:0px;
+}
+.image-grit2{
+	float:left;
+	height:298px;
+	width:374.5px;
+	margin:0px;
+}
+
+.image-grit3{
+	float:left;
+	height:298px;
+    width:374.5px;
+	margin:0px;
+}
+.image-grit4{
+	float:left;
+	height:298px;
+    width:374.5px;
+	margin:0px;
+}
+
+.row5{
+    width:1500px;
+    height:264px;
+    margin:auto;
+    margin-top:20px;
+}
+
+
+.row6{
+    margin-top:20px;
+    padding: 0px 415px;
+    background-color:#232F3E;
+}
+.row7{
+    width:1000px;
+    height:400px;
+    color:white;
+}
+
+.row8{
+    width:136px;
+    height:400px;
+    float:left;
+
+}
+.row_8{
+    width:99.5px;
+    height:400px;
+    float:left;
+    padding:0px 10px;
+}
+.row9{
+
+    width:184px;
+    height:400px;
+    float:left;
+
+}
+
+.row10{
+    width:222px;
+    height:400px;
+    float:left;
+
+    
+}
+
+.row11{
+    width:157px;
+    height:400px;
+    float:left;
+    
+}
+
+
